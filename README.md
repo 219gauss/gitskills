@@ -1,3 +1,8 @@
 # gitskills
 My name is pzp!
-I create a new master ^_^ !
+<<<<<<< HEAD
+I create a new confict fixed ^_^ !
+=======
+I create a new fenzhi!^_^ !
+
+>>>>>>> feature1
